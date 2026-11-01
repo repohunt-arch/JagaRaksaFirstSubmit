@@ -1,7 +1,7 @@
 # JagaRaksaFirstSubmit
 Portal Aspirasi &amp; Pengaduan Fasilitas Publik  
 -
-Tech stack: HTML, CSS, PHP, MySQL, Tailwind, SQL, leaflet.js, chart.js
+Tech stack: HTML, CSS, PHP, MySQL, Tailwind, SQL, leaflet.js, chart.js  
 Penggunaan AI: Claude, Antigravity, Stitch
 
 
